@@ -1,0 +1,14 @@
+//check modem coms
+AT
+
+//get product name
+ATI
+
+//get manufacturer Info
+AT+GSV
+
+//get device phone number
+AT+CIMI
+
+//Get the device serial number
+AT+GSN

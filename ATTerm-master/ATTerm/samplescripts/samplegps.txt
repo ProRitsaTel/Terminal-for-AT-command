@@ -1,0 +1,12 @@
+// SIM7000 GNSS test script
+//check modem coms
+AT
+
+//turn GNSS power on 
+AT+CGNSPWR=1
+
+//redirect GNSS serial to current AT port
+AT+CGNSTST=1,1
+
+//again redirect GNSS serial to current AT port
+AT+CGNSTST=1,1

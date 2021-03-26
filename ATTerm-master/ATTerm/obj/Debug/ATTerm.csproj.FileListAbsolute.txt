@@ -1,0 +1,20 @@
+C:\Users\Vladislav\Desktop\ATTerm-master\ATTerm\bin\Debug\ATTerm.exe.config
+C:\Users\Vladislav\Desktop\ATTerm-master\ATTerm\bin\Debug\ATTerm.exe
+C:\Users\Vladislav\Desktop\ATTerm-master\ATTerm\bin\Debug\ATTerm.pdb
+C:\Users\Vladislav\Desktop\ATTerm-master\ATTerm\obj\Debug\ATTerm.csprojAssemblyReference.cache
+C:\Users\Vladislav\Desktop\ATTerm-master\ATTerm\obj\Debug\ATTerm.frmAbout.resources
+C:\Users\Vladislav\Desktop\ATTerm-master\ATTerm\obj\Debug\ATTerm.Form1.resources
+C:\Users\Vladislav\Desktop\ATTerm-master\ATTerm\obj\Debug\ATTerm.Properties.Resources.resources
+C:\Users\Vladislav\Desktop\ATTerm-master\ATTerm\obj\Debug\ATTerm.csproj.GenerateResource.cache
+C:\Users\Vladislav\Desktop\ATTerm-master\ATTerm\obj\Debug\ATTerm.exe
+C:\Users\Vladislav\Desktop\ATTerm-master\ATTerm\obj\Debug\ATTerm.pdb
+C:\Users\ceyz\Desktop\работа 2.0\ATTerm-master\ATTerm\bin\Debug\ATTerm.exe.config
+C:\Users\ceyz\Desktop\работа 2.0\ATTerm-master\ATTerm\bin\Debug\ATTerm.exe
+C:\Users\ceyz\Desktop\работа 2.0\ATTerm-master\ATTerm\bin\Debug\ATTerm.pdb
+C:\Users\ceyz\Desktop\работа 2.0\ATTerm-master\ATTerm\obj\Debug\ATTerm.csprojAssemblyReference.cache
+C:\Users\ceyz\Desktop\работа 2.0\ATTerm-master\ATTerm\obj\Debug\ATTerm.frmAbout.resources
+C:\Users\ceyz\Desktop\работа 2.0\ATTerm-master\ATTerm\obj\Debug\ATTerm.Form1.resources
+C:\Users\ceyz\Desktop\работа 2.0\ATTerm-master\ATTerm\obj\Debug\ATTerm.Properties.Resources.resources
+C:\Users\ceyz\Desktop\работа 2.0\ATTerm-master\ATTerm\obj\Debug\ATTerm.csproj.GenerateResource.cache
+C:\Users\ceyz\Desktop\работа 2.0\ATTerm-master\ATTerm\obj\Debug\ATTerm.exe
+C:\Users\ceyz\Desktop\работа 2.0\ATTerm-master\ATTerm\obj\Debug\ATTerm.pdb
